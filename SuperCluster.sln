@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCrew.SuperCluster", "DevCrew.SuperCluster\DevCrew.SuperCluster.csproj", "{99D9647A-986C-40DA-9893-EDF363A8963B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperClusterTests", "SuperClusterTests\SuperClusterTests.csproj", "{4BFA76F9-82DA-45BF-A79B-B1CF4FF66B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D9647A-986C-40DA-9893-EDF363A8963B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9647A-986C-40DA-9893-EDF363A8963B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9647A-986C-40DA-9893-EDF363A8963B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9647A-986C-40DA-9893-EDF363A8963B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFA76F9-82DA-45BF-A79B-B1CF4FF66B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFA76F9-82DA-45BF-A79B-B1CF4FF66B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFA76F9-82DA-45BF-A79B-B1CF4FF66B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFA76F9-82DA-45BF-A79B-B1CF4FF66B85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

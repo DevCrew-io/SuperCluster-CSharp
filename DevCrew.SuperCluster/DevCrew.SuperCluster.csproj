@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>DevCrew.SuperCluster</PackageId>
+        <Title>SuperCluster</Title>
+        <Authors>DevCrew.IO</Authors>
+        <Description>a C# library that provides an efficient way to cluster large point datasets. This library is based on the popular Supercluster JavaScript library by Mapbox and has been optimized for performance in .NET environments.</Description>
+        <PackageTags>clustering, mapbox, unity, geospatial, supercluster, c#, .net, kdtree</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="NGeoKDBush" Version="1.0.1" />
+    </ItemGroup>
+
+</Project>

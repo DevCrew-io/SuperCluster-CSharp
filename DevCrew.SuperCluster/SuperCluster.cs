@@ -327,10 +327,10 @@ public class SuperCluster
     
     
     public static readonly Options DefaultOptions = new(
-        minZoom: 4,   // min zoom to generate clusters on
-        maxZoom: 14,  // max zoom level to cluster the points on
+        minZoom: 0,   // min zoom to generate clusters on
+        maxZoom: 16,  // max zoom level to cluster the points on
         minPoints: 2, // minimum points to form a cluster
-        radius: 30,   // cluster radius in pixels
+        radius: 40,   // cluster radius in pixels
         extent: 512,  // tile extent (radius is calculated relative to it)
         nodeSize: 64, // size of the KD-tree leaf node, affects performance
         log: true,   // whether to log timing info

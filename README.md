@@ -102,16 +102,12 @@ foreach (var geoJsonFeature in clusterData)
 ```
 
 ## Authors
-Waseem Abbas (Software Engineer at [**DevCrew.IO**](https://devcrew.io/))
+[**DevCrew.IO**](https://devcrew.io/)
 
 ### Connect with Us
-<p align="left">
-<a href="https://devcrew.io" target="blank"><img align="center" src="https://devcrew.io/wp-content/uploads/2022/09/logo.svg" alt="devcrew.io" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/company/devcrew-io/mycompany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mycompany" height="30" width="40" /></a>
-<a href="https://www.facebook.com/devcrew.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devcrew.io" height="30" width="40" /></a>
-<a href="https://www.instagram.com/devcrew.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devcrew.io" height="30" width="40" /></a>
-<a href="https://github.com/DevCrew-io" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="DevCrew-io" height="32" width="32" /></a>
-</p>
+[![](https://img.shields.io/badge/Website-DevCrew.IO-informational?style=flat&color=710F15)](https://devcrew.io)
+[![](https://img.shields.io/badge/DevCrew.IO-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/company/devcrew-io)
+[![](https://img.shields.io/badge/DevCrew.IO-informational?style=flat&logo=github&color=181717)](https://github.com/DevCrew-io)
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!

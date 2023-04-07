@@ -12,12 +12,20 @@
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/DevCrew-io/SuperCluster-CSharp</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <PackageReleaseNotes>initial release</PackageReleaseNotes>
+        <PackageReleaseNotes>logo update 
+readme updated</PackageReleaseNotes>
+        <Version>1.0.1</Version>
+        <PackageIcon>logo.png</PackageIcon>
+        <PackageProjectUrl>https://www.nuget.org/packages/DevCrew.SuperCluster/</PackageProjectUrl>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="NGeoKDBush" Version="1.0.1" />
-        <None Include="..\README.md" Pack="true" PackagePath="\"/>  
+        <None Include="..\README.md" Pack="true" PackagePath="\" />
+        <None Update="logo.png">
+          <Pack>True</Pack>
+          <PackagePath></PackagePath>
+        </None>  
     </ItemGroup>
 
 </Project>

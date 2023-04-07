@@ -9,10 +9,15 @@
         <Authors>DevCrew.IO</Authors>
         <Description>a C# library that provides an efficient way to cluster large point datasets. This library is based on the popular Supercluster JavaScript library by Mapbox and has been optimized for performance in .NET environments.</Description>
         <PackageTags>clustering, mapbox, unity, geospatial, supercluster, c#, .net, kdtree</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/DevCrew-io/SuperCluster-CSharp</RepositoryUrl>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageReleaseNotes>initial release</PackageReleaseNotes>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="NGeoKDBush" Version="1.0.1" />
+        <None Include="..\README.md" Pack="true" PackagePath="\"/>  
     </ItemGroup>
 
 </Project>
